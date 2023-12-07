@@ -31,6 +31,7 @@ This project was developed with the following technologies:
 
 
 - [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 - [Javascript](https://devdocs.io/javascript/)
 - [React Navigation](https://reactnavigation.org/)
 - [React Native Gesture Handler](https://kmagiera.github.io/react-native-gesture-handler/)
