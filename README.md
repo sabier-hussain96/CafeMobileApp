@@ -4,7 +4,6 @@
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/sabier-hussain96/CafeMobileApp">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/sabier-hussain96/CafeMobileApp">
   <img alt="Repository Size" src="https://img.shields.io/github/repo-size/sabier-hussain96/CafeMobileApp">
 </p>
 
